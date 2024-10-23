@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'comida',
+    'qual o nome científico do feijão?',
+    'Phaseolus vulgaris'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'dendrologia',
+    'qual o nome do pé de lichia?',
+    'lichieira'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'dendrologia',
+    'o que é dendrologia?',
+    'é o ramo da botânica que estuda a identificação e classificação das plantas lenhosas, principalmente árvores e arbustos'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'inglês',
+    'Como se diz árvore em Inglês?',
+    'árvore em inglês se fala tree'
 )
